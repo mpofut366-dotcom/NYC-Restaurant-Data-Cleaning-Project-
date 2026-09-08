@@ -16,7 +16,7 @@ The overall aim of the project was to clean and standardise the dataset so it is
 - Removed duplicate records (Microsoft Excel).
 - Split inspection type column into inspection stage and inspection program. 
 
-## DATASET
+##### DATASET
 
 The dataset was provided through Analyst Builder's Restaurant Health Inspection Analysis - NYC project.
 The original dataset is not included in this repository due to file size.
